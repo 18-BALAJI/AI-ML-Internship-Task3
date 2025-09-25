@@ -1,7 +1,7 @@
 # Day-3: Linear Regression on Housing Price Dataset 🏠📉
 
 ## 📌 Repository Name
-day3-linear-regression-housing
+AI-ML-Internship-Task3
 
 ---
 
